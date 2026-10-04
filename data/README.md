@@ -1,0 +1,1 @@
+Raw data and local user state are ignored by Git. Use `llm-eval-lab download` to fetch the documented public source. Source hashes and license notices are separate from this repository's MIT code license.

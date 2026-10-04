@@ -1,0 +1,18 @@
+[
+  {
+    "id": "045f66a720b14e312674",
+    "label": "qwen3.5:9b \u00b7 100 questions \u00b7 json \u00b7 045f66a7"
+  },
+  {
+    "id": "209cbfa6d28bd5359a0f",
+    "label": "qwen3:0.6b \u00b7 100 questions \u00b7 delimiter \u00b7 209cbfa6"
+  },
+  {
+    "id": "4ca918a6bc06f3edea25",
+    "label": "qwen3:0.6b \u00b7 100 questions \u00b7 json \u00b7 4ca918a6"
+  },
+  {
+    "id": "9722fe2c9de01ea11a22",
+    "label": "qwen3:0.6b \u00b7 20 questions \u00b7 delimiter \u00b7 9722fe2c \u00b7 legacy pilot"
+  }
+]

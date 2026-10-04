@@ -1,0 +1,1 @@
+Model weights are not distributed in this repository. Install a local model with Ollama; run manifests pin its digest. Reports and saved raw responses are under reports/. Those outputs are separate from the historical BrainBench study.
